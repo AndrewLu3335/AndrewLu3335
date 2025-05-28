@@ -1,21 +1,13 @@
-- 👋 Hi, I’m AndrewLu :)
-- 👀 I’m interested in Java developing, Testing, and python.
-- 🌱 I’m currently learning python developing and testing.
-- 📫 How to reach me @andrew.lu.414@hotmail.com
-
-
-This is my Python learning notes https://www.yuque.com/andrewlu/st88gc, hope we can learn together :)　
-
-
 # Hi there 👋 I'm Andrew Lu
 
-- 🔭 I’m currently studying in Laurentian University  
+- 🔭 I’m currently studying in Laurentian University
+- 👀 I’m interested in Java developing, Testing, and python.  
 - 🌱 I’m currently learning on Flask
 - 👯 I’m looking to collaborate on python web server
 - 📫 How to reach me: jslu414@gmail.com
 
 ## Tech Stack
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Python][(https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.yuque.com/andrewlu/st88gc)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
